@@ -1,0 +1,15 @@
+.GameCard {
+    display: inline-block;
+    height: 120px;
+    width: 80px;
+    margin: 3px;
+    border: navy;
+    border-width: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.CardBack {
+    width: 100%;
+    padding-top: 13px;
+}
